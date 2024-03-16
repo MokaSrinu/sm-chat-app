@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import toast from "react-hot-toast";
 
-const useGetConversations = () => {
+// user conversations for side navigation excluding the logged user
+const useGetConversations = () => { 
 	const [loading, setLoading] = useState(false);
 	const [conversations, setConversations] = useState([]);
 
