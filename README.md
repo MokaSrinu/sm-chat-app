@@ -34,12 +34,12 @@ Introducing our guide to building a cutting-edge real-time chat application! In 
 
 ## <a name="features">🔋 Features</a>
 
-🎃 Authentication && Authorization with JWT
-👾 Real-time messaging with Socket.io
-🚀 Online user status (Socket.io and React Context)
-👌 Global state management with Zustand
-🐞 Error handling both on the server and on the client
-⏳ And much more!, including code architecture and reusability.
+  🎃 Authentication && Authorization with JWT
+  👾 Real-time messaging with Socket.io
+  🚀 Online user status (Socket.io and React Context)
+  👌 Global state management with Zustand
+  🐞 Error handling both on the server and on the client
+  ⏳ And much more!, including code architecture and reusability.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
